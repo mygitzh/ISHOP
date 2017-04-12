@@ -1,2 +1,1 @@
-# ISHOP
-ISHOP
+你好 ！再见！
